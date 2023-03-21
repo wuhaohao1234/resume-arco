@@ -13,10 +13,54 @@ const ExpressInfo = () => {
 				<List.Item>
 					<div className="header">
 						<h2>
-              博彦科技
+							西安维塑科技
 						</h2>
 						<span>
-              2021-02 - 至今
+              2022-01 2022-08
+						</span>
+					</div>
+					<div className="content">
+						<h5>
+              主要从事vdpro3,ve,va等产品开发
+						</h5>
+						<h6>
+							担任全栈工程师职务，前端负责人，分别开发设备端app(electron)，app端(react native)，BFF(nestjs)
+						</h6>
+						<br/>
+						<h5>
+              业务工作(react)
+						</h5>
+						<h6>
+              1. 使用乾坤来做管理平台，完成支付页面，客户管理页面，商户管理页面，报告打印页面(使用iframe，selenium)
+						</h6>
+						<h6>
+              2. 使用i18n来实现设备端的国际化
+						</h6>
+						<h6>
+              3. 设备端由socket通信变为grpc通信
+						</h6>
+						<br/>
+						<h5>
+              基础设施
+						</h5>
+						<h6>
+              1. 搭建私有npm仓库，对于公共组件封装
+						</h6>
+						<h6>
+              2. BFF接口由resultful改为grpc
+						</h6>
+						<h6>
+              3. 后端微服务优化使用monorepo
+						</h6>
+					</div>
+				</List.Item>
+				<List.Item>
+					<div className="header">
+						<h2>
+							博信云创信息科技有限公司
+						</h2>
+						<span>
+              2021-03 2021-11-30
 						</span>
 					</div>
 					<div className="content">
@@ -57,7 +101,7 @@ const ExpressInfo = () => {
 				<List.Item>
 					<div className="header">
 						<h2>
-              烽火通信
+							烽火通信科技股份有限公司旗下(武汉睿之航科技有限公司)
 						</h2>
 						<span>
               2020-01 - 2021-02
@@ -104,10 +148,10 @@ const ExpressInfo = () => {
 				<List.Item>
 					<div className="header">
 						<h2>
-              国联质检
+							西安国联质量检测技术股份有限公司
 						</h2>
 						<span>
-              2019-09 - 2020-02
+              2019-09 - 2020-01
 						</span>
 					</div>
 					<div className="content">
@@ -132,7 +176,7 @@ const ExpressInfo = () => {
 				<List.Item>
 					<div className="header">
 						<h2>
-              深圳科科智能
+							深圳市科科智能科技有限公司
 						</h2>
 						<span>
               2018-01 - 2019-09

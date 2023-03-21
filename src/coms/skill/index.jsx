@@ -20,7 +20,9 @@ const Skill = () => {
 
 **使用webpack独立搭建过react项目**，并做了**代码分离**，**alias**, **proxy**,常用loader(less-loader, file-loader, bable-loader)的配置
 
-5. 熟悉小程序开发，接触flutter开发，了解want-weapp与flutter常用widget
+做过webpack性能优化:Tree Shaking，webpack-parallel-uglify-plugin，Tree Shaking，SplitChunksPlugin
+
+5. 熟悉小程序开发，接触flutter开发，了解want-weapp与flutter常用widget，做过react native
 
 了解微信**小程序页面栈**
 
