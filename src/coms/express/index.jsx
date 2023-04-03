@@ -104,7 +104,7 @@ const ExpressInfo = () => {
 							烽火通信科技股份有限公司旗下(武汉睿之航科技有限公司)
 						</h2>
 						<span>
-              2020-01 - 2021-02
+              2019-09 - 2021-02
 						</span>
 					</div>
 					<div className="content">
@@ -145,7 +145,7 @@ const ExpressInfo = () => {
 						</h6>
 					</div>
 				</List.Item>
-				<List.Item>
+				{/* <List.Item>
 					<div className="header">
 						<h2>
 							西安国联质量检测技术股份有限公司
@@ -172,7 +172,7 @@ const ExpressInfo = () => {
               2. 做技术选型使用nodejs代替spring, 使用react代替vue, 开发国联集团管理系统。后因转型成本高导致研发团队解散
 						</h6>
 					</div>
-				</List.Item>
+				</List.Item> */}
 				<List.Item>
 					<div className="header">
 						<h2>
